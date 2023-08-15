@@ -5,5 +5,5 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Blog
-- 🌱 I’m currently learning C Language
+- 🌱 I’m currently learning Java Language
 - 📫 How to reach me: omarfattahiii@outlook.com
